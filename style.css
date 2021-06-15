@@ -1,0 +1,42 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #D8FED7;
+}
+
+#left {
+    width: 50%;
+    height: 100vh;
+}
+
+#right {
+    width: 100%;
+    min-height: 95vh;
+    background: palegreen;
+}
+#createID{
+    background: palegreen;
+}
+
+#branding {
+    width: 200px;
+    height: auto;
+}
+
+#condition {
+    width: 100px;
+    height: auto;
+}
+
+#master-history {
+    display: none
+}
+
+.card{
+    border: .5px solid #333;
+}
+
+
+
